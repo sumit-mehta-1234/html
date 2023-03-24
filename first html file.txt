@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>My first program</title>
+<style>
+h1{
+font-size:25px;
+color:red;
+}
+h2{
+font-size:25px;
+color:blue;
+}
+h3{
+font-size:25px;
+color:green;
+}
+</style>
+</head>
+<body>
+<h1>Welcome</h1>
+<h2>Welcome</h2>
+<h3>Welcome</h3>
+</body>
+</html>
